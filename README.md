@@ -19,30 +19,19 @@ This project demonstrates my ability to:
 
 ## 🛠️ Tools Used  
 - **Power BI** – Data visualization & dashboarding  
-- **Excel/CSV dataset** – Sales dataset for Adidas (sample dataset for learning purposes)  
+- **Excel/CSV dataset** – Sales dataset for Adidas sales 
+- 🔗 [Kaggle dataset link](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
 
 ---
 
 ## 📷 Dashboard Preview  
 ### Main Dashboard  
-![Dashboard 1](images/dashboard_main.png)  
+![Dashboard 1](images/overview.png)  
 
 ### Regional & Product Insights  
-![Dashboard 2](images/dashboard_analysis.png)  
+![Dashboard 2](images/insights.png)  
 
----
-
-## 🚀 Key Insights  
-1. **West Region** contributed the highest sales.  
-2. **Miami, New York, Charleston, Portland, and San Francisco** are the top-performing cities.  
-3. **Online Sales** account for the largest share of total sales.  
-4. **Operating Margin** maintained above 40% across most regions.  
-5. Sales peaked in **July–August** with a dip in early months.  
-
----
-
-## 📂 Project Structure  
-```
+## 📂 Project Structure
 
 Adidas-Sales-Dashboard/
 │
@@ -51,8 +40,6 @@ Adidas-Sales-Dashboard/
 ├── images/             # Screenshots for README
 └── README.md           # Project documentation
 
-```
-
 ---
 
 ## 👩‍💻 Author  
@@ -60,30 +47,7 @@ Adidas-Sales-Dashboard/
 🎓 B.Tech CSE Graduate (2025)  
 💻 Aspiring **Data Analyst | Python Developer**  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/samiksha-sain/)  
-```
 
----
-
-## 📤 How to Upload on GitHub
-
-1. **Create a new repository** (e.g., `Adidas-Sales-Dashboard`).
-2. Inside your project folder, add:
-
-   * Your **Power BI file** (`.pbix`)
-   * An `images/` folder → add the screenshots you just shared
-   * The `README.md` file
-3. Open **Git Bash / Terminal** in your project folder and run:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - Adidas Sales Dashboard"
-git branch -M main
-git remote add origin https://github.com/<your-username>/Adidas-Sales-Dashboard.git
-git push -u origin main
-```
-
-4. Done ✅ Your project will now be visible on GitHub.
 
 ---
 
