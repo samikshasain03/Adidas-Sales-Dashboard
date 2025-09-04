@@ -48,9 +48,3 @@ Adidas-Sales-Dashboard/
 💻 Aspiring **Data Analyst | Python Developer**  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/samiksha-sain/)  
 
-
----
-
-👉 Tip: For LinkedIn, you can share a carousel post with your dashboard screenshots + link to your GitHub repo.
-
-Would you like me to also write a **LinkedIn post draft** for this Adidas project, like we did for your QR system project?
